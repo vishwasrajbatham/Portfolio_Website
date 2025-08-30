@@ -21,7 +21,7 @@ export default function Hero() {
       {/* Title */}
       <h1 className="text-5xl md:text-6xl font-extrabold wave-hover">
       <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-        Hi, I'm Vishwas Raj Batham 👋
+        Hi, I&apos;m Vishwas Raj Batham 👋
       </span>
     </h1>
 
