@@ -36,7 +36,7 @@ export default function Hero() {
       <div className="mt-8 flex flex-wrap gap-4 justify-center">
         <a
           href="/Vishwas_Raj_Batham.pdf"
-          target="_blank"
+          target="https://drive.google.com/file/d/1TgS9i4eY0c25DGMdoK8sSclYC93s1g9B/view?usp=sharing"
           className="px-6 py-2 rounded-full bg-blue-600 text-white font-medium shadow 
                      hover:bg-blue-700 transition"
         >
