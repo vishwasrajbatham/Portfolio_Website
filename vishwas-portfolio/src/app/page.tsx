@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div>
       <Navbar />
+
       <Hero />
 
       <Section id="about" title="About Me">
@@ -273,7 +274,6 @@ export default function Home() {
           </div>
         </div>
       </Section>
-
 
     </div>
   );
